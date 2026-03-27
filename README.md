@@ -39,13 +39,6 @@
 
 <!-- ================= CYBER STYLE ================= -->
 
-## 🧑‍💻 Cyber World
-
-<p align="center">
-  <img src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif" width="400">
-</p>
-
----
 
 <!-- ================= STATS ================= -->
 
