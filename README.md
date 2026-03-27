@@ -114,3 +114,4 @@
 <p align="center">
   ⚡ "Hack the system, but first understand it." ⚡
 </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com)
