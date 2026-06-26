@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Abdu-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://t.me/Udbarahman">
+<a href="https://t.me/R3manU99">
   <img src="https://img.shields.io/badge/Telegram-Abdu-blue?style=for-the-badge&logo=telegram">
 </a>
 
